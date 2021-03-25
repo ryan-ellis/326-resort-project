@@ -1,0 +1,8 @@
+.main-background {
+    background: linear-gradient(white, rgb(248, 173, 146));
+}
+
+.w-100 {
+    width: 100% !important;
+    height: 75vh;
+  }
