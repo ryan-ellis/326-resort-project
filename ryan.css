@@ -12,3 +12,8 @@
     height: 15vw !important;
     object-fit: cover !important;
 }
+
+.carousel-inner > .item > img {
+  width:640px !important;
+  height:360px !important;
+}
